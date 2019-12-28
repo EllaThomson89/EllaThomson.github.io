@@ -30,7 +30,7 @@ I choose RMIT as it is a reputable institution and aloud freedom to study online
 -	Strong mathematical skills <p>
 -	Experience gained through internship preferred.
 
- <p>
+<p>
 <H4> Game plan </h4>
 
 <p> My plan is to complete foundation subjects in IT and apply to study a bachelors degree with University of South Australia in IT and Data analytics. <p>
