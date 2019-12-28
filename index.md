@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<body>
 
-You can use the [editor on GitHub](https://github.com/EllaThomson89/EllaThomson.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<h1>Ella Thomson </h1>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<h2>Personal Information </h2>
+	
+<p>Name: Ella Thomson <p>
+Student number: S3830502<p>
+Email address:S3830502@student.rmit.edu.au <p>
+<h2>Interest in IT </h2>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p> My interest in IT began during my service within the Australian Army. Working in a signals intelligence based role sparked my interest for IT and data analytics. 
+I choose RMIT as it is a reputable institution and aloud freedom to study online using Open Universities Australia.
+ <p>
 
-```markdown
-Syntax highlighted code block
+<h2>Ideal Job </h2>
 
-# Header 1
-## Header 2
-### Header 3
+<H3>Data analyst </h3>
 
-- Bulleted
-- List
+<H4>Description </h4>
 
-1. Numbered
-2. List
+<p> A data analyst collects information in a controlled way which is then processed and analysed to provide key stakeholders  with valuable insight to make informed decisions. <p>
 
-**Bold** and _Italic_ and `Code` text
+<H4>Skill and qualifications </h4>
+<p> -Bachelors degree in relevant field. <p>
+-	Report writing and presentation skills <p>
+-	Strong mathematical skills <p>
+-	Experience gained through internship preferred.
 
-[Link](url) and ![Image](src)
-```
+ <p>
+<H4> Game plan </h4>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<p> My plan is to complete foundation subjects in IT and apply to study a bachelors degree with University of South Australia in IT and Data analytics. <p>
 
-### Jekyll Themes
+<H4> Myer-Briggs Test </h4>
+<H5> Logistician ISTJ-T </h5>
+<p> Individual traits: <p> 
+ Introverted 68% <p> Observant 93% <p> Thinking 58% <p> Judging 75% <p> 
+Turbulent 51% <p> 
+<p> Strategy : Constant Improvement<p> 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EllaThomson89/EllaThomson.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<H4> Learning Style Test </h4>
+<p>  Visual <p> 
 
-### Support or Contact
+<H4> DISC Test  </h4>
+<p> You are a fact orientated person capable of providing help based on solid information. You are assertive, self-sufficient and individualistic. People are likely to perceive you as being rational and creative at the same time.
+<p> 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<H4> Personality Overview   </h4>
+
+<p> Classified as a Logistician, I do not like to make assumptions and am fact orientated. I usually prefer working alone than in groups. <p> When in groups I prefer structure and clearly established roles and responsibilities. Within a team environment I am dependable self sufficient. <p> My weakness is depending on others and patience. <p> I am best suited to like minded focused individuals and strong decision makers within a team environment. <p>
+
+
+</body>
+</html>
