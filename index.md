@@ -13,7 +13,7 @@ Email address:S3830502@student.rmit.edu.au <p>
 <h2>Interest in IT </h2>
 
 <p> My interest in IT began during my service within the Australian Army. Working in a signals intelligence based role sparked my interest for IT and data analytics. 
-I choose RMIT as it is a reputable institution and aloud freedom to study online using Open Universities Australia.
+I choose RMIT as it is a reputable institution and provided freedom to study online using Open Universities Australia.
  <p>
 
 <h2>Ideal Job </h2>
