@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <body>
 
@@ -54,5 +54,4 @@ Turbulent 51% <p>
 <p> Classified as a Logistician, I do not like to make assumptions and am fact orientated. I usually prefer working alone than in groups. <p> When in groups I prefer structure and clearly established roles and responsibilities. Within a team environment I am dependable self sufficient. <p> My weakness is depending on others and patience. <p> I am best suited to like minded focused individuals and strong decision makers within a team environment. <p>
 
 
-</body>
-</html>
+
